@@ -1,0 +1,14 @@
+C:\Users\uih05152\Desktop\cistamzda\bin\Debug\net8.0\cistamzda.exe
+C:\Users\uih05152\Desktop\cistamzda\bin\Debug\net8.0\cistamzda.deps.json
+C:\Users\uih05152\Desktop\cistamzda\bin\Debug\net8.0\cistamzda.runtimeconfig.json
+C:\Users\uih05152\Desktop\cistamzda\bin\Debug\net8.0\cistamzda.dll
+C:\Users\uih05152\Desktop\cistamzda\bin\Debug\net8.0\cistamzda.pdb
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.AssemblyInfoInputs.cache
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.AssemblyInfo.cs
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.csproj.CoreCompileInputs.cache
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.dll
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\refint\cistamzda.dll
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.pdb
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\cistamzda.genruntimeconfig.cache
+C:\Users\uih05152\Desktop\cistamzda\obj\Debug\net8.0\ref\cistamzda.dll

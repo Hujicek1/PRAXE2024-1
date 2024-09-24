@@ -1,0 +1,14 @@
+C:\Users\uih05152\Desktop\kamennuzkypapir\bin\Debug\net8.0\kamennuzkypapir.exe
+C:\Users\uih05152\Desktop\kamennuzkypapir\bin\Debug\net8.0\kamennuzkypapir.deps.json
+C:\Users\uih05152\Desktop\kamennuzkypapir\bin\Debug\net8.0\kamennuzkypapir.runtimeconfig.json
+C:\Users\uih05152\Desktop\kamennuzkypapir\bin\Debug\net8.0\kamennuzkypapir.dll
+C:\Users\uih05152\Desktop\kamennuzkypapir\bin\Debug\net8.0\kamennuzkypapir.pdb
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.AssemblyInfoInputs.cache
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.AssemblyInfo.cs
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.csproj.CoreCompileInputs.cache
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.dll
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\refint\kamennuzkypapir.dll
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.pdb
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\kamennuzkypapir.genruntimeconfig.cache
+C:\Users\uih05152\Desktop\kamennuzkypapir\obj\Debug\net8.0\ref\kamennuzkypapir.dll

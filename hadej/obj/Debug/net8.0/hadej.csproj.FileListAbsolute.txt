@@ -1,0 +1,14 @@
+C:\Users\uih05152\Desktop\hadej\bin\Debug\net8.0\hadej.exe
+C:\Users\uih05152\Desktop\hadej\bin\Debug\net8.0\hadej.deps.json
+C:\Users\uih05152\Desktop\hadej\bin\Debug\net8.0\hadej.runtimeconfig.json
+C:\Users\uih05152\Desktop\hadej\bin\Debug\net8.0\hadej.dll
+C:\Users\uih05152\Desktop\hadej\bin\Debug\net8.0\hadej.pdb
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.AssemblyInfoInputs.cache
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.AssemblyInfo.cs
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.csproj.CoreCompileInputs.cache
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.dll
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\refint\hadej.dll
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.pdb
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\hadej.genruntimeconfig.cache
+C:\Users\uih05152\Desktop\hadej\obj\Debug\net8.0\ref\hadej.dll
